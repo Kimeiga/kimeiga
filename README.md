@@ -5,7 +5,3 @@ the clan of the dan
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimeiga&show_icons=true&theme=tokyonight&locale=tr" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeiga&theme=tokyonight&locale=tr" />
-
-
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeiga&show_icons=true&theme=tokyonight&locale=tr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimeiga)

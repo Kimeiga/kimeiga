@@ -3,9 +3,8 @@
 the clan of the dan
 ###### the bran of the xan
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimeiga&show_icons=true&theme=tokyonight&locale=tr" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeiga" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimeiga&show_icons=true&theme=tokyonight&locale=tr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeiga&show_icons=true&theme=tokyonight&locale=tr" />
 
 
 ![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeiga&show_icons=true&theme=tokyonight&locale=tr)
